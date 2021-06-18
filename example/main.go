@@ -2,14 +2,14 @@ package main
 
 import (
 	"fmt"
-	"github.com/abdulahwahdi/bersamabilling-go"
+	"github.com/Bhinneka/bersamabilling-go"
 	"time"
 )
 
 const (
-	Username = "bene.prabowo@bhinneka.com"
-	Password = "PrmL7IvB"
-	BaseURL  = "https://bersamabilling.id/portal/index.php"
+	Username = ""
+	Password = ""
+	BaseURL  = ""
 	Timeout  = 60 * time.Second
 )
 

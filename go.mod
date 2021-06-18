@@ -1,3 +1,3 @@
-module github.com/abdulahwahdi/bersamabilling-go
+module github.com/Bhinneka/bersamabilling-go
 
 go 1.13
